@@ -1,0 +1,1 @@
+# cordova-basic-application
